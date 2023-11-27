@@ -1,0 +1,6 @@
+Theme: 0
+Inappropriate: 1
+Clone: 0
+Copywrited: 1
+Confirm Exit: 0
+Voices: Microsoft David Desktop - English (United States)

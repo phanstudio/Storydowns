@@ -1,0 +1,2 @@
+novelbin|https://novelbin.net|#btn-read-first|/n/|chapter-|search?keyword=^^
+novelroom|https://novelroom.net|#btn-read-first|/manga/|chapter-|?s=^^&post_type=wp-manga

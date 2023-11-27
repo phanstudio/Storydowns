@@ -1,0 +1,6 @@
+Theme: 0
+Inappropriate:0
+Clone:0
+Copywrited:0
+Confirm Exit:0
+Voices: Microsoft Hazel Desktop - English (Great Britain)

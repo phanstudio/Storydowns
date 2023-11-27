@@ -1,0 +1,9 @@
+worlds-best-martial-artist|200|1-20|84,a3,dc,dd,dd,6f,b4,b4,8f,7d,e6,bc,c6,b1,a0,5d,78,7e,9d,9d
+the-yandere-system-in-the-world-of-cultivation-nov1412527497|200|1-5|7c,84,ef,ac,52
+the-grandmaster-strategist-nov827935616|200|1-10|e3,ee,e4,4d,e2,80,ed,c7,46,4c
+48-hours-a-day-nov-1100363382|200|1-156|5a,98,8a,75,8c,90,7e,bc,7f,87,63,78,92,3c,e6,64,cc,a2,eb,eb,b1,b9,c3,eb,a7,dd,db,91,59,50,93,e2,8e,db,5d,68,81,97,ba,d8,51,94,bd,ac,c6,90,b4,9f,ec,58,72,9f,b6,df,85,50,ea,9b,b0,ab,3d,64,5d,50,df,a6,4a,6c,6e,96,be,d5,95,76,6d,94,a6,bc,e0,dc,a0,44,ec,7f,98,4f,81,e4,95,52,66,80,b2,bf,72,de,62,bf,d9,63,9a,9f,40,49,e6,ce,44,9c,d6,af,58,43,3c,6d,c8,47,7c,bc,b0,73,40,b6,83,54,e8,5f,59,e0,b7,ae,a6,be,97,c9,a5,71,db,aa,49,9d,eb,b3,e4,6b,4b,d5,ad,c8,8b,c4,ec,86,4c,56,98,6f
+seoul-stations-necromancer-nov1763911115|200|1-20|de,cd,d0,af,a0,bd,c7,ef,bd,6b,bb,a8,45,b6,73,4d,a1,d0,da,e4
+defiance-of-the-fall-nov-1523090956|200|1-20|cb,76,b1,58,ba,6e,c1,88,ce,cd,8f,89,e7,52,74,e8,6a,62,42,cd
+abyssal-lord-of-the-magi-world-nov1399020576|200|1-20|92,d2,51,ec,cb,ea,d8,91,52,c2,7b,b8,a4,92,53,82,b7,95,af,b2
+superstars-of-tomorrow-nov-798880555|200|1-20|c0,bd,40,51,d9,94,c3,a4,9c,b8,68,a7,61,46,4f,a9,43,c8,cc,ad
+supreme-magus-novel-nov142255437|200|1-50|da,c8,44,72,63,e7,6a,75,dd,a5,62,ba,ec,e9,7e,ae,60,b6,80,72,61,ac,e0,e6,8b,60,b4,5d,5a,84,9b,7c,8b,a4,c7,3c,8b,7e,db,ca,5c,85,ca,64,b7,6e,95,b4,8a,52
