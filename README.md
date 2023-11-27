@@ -1,5 +1,6 @@
 # Novel Haven
 
+First app i ever made with python😋 kinda buggy. if you run into ay issues, post it in issues.
 Welcome to Novel Haven, your go-to app for downloading and reading novels with ease. Built with custom Tkinter, a Python framework, Novel Haven provides a user-friendly interface for discovering, downloading, and enjoying your favorite novels. Whether you're a bookworm or just looking for a convenient way to explore new stories, Novel Haven has you covered.
 
 ## Table of Contents
