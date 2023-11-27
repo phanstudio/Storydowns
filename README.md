@@ -13,6 +13,11 @@ Welcome to Novel Haven, your go-to app for downloading and reading novels with e
 6. [License](#license)
 
 ![story downloader 24_12_2022 11_35_55](https://github.com/phanstudio/Storydowns/assets/85735876/c54da0ac-91f5-4c18-952b-77a3ff083c1d)
+![story downloader 24_12_2022 11_35_36](https://github.com/phanstudio/Storydowns/assets/85735876/034cbbba-7418-4ec4-a54c-f2ef159044c8)
+![story downloader 24_12_2022 11_35_16](https://github.com/phanstudio/Storydowns/assets/85735876/c70b5228-df3e-486b-8c32-cd91bfba4868)
+![story downloader 24_12_2022 11_34_58](https://github.com/phanstudio/Storydowns/assets/85735876/9c270db7-e16e-4597-b980-190d65c0a07e)
+![story downloader 24_12_2022 11_35_46](https://github.com/phanstudio/Storydowns/assets/85735876/90024446-4f2b-46be-85a3-77d4611bdeb4)
+
 
 
 
